@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>mcm-moskva-nok-20260904</Id>
-    <AvitoId>8312803651</AvitoId>
+    <Id>mcm-kirovskaya_oblast_kirov-sro_build-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -60,8 +59,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-sankt-peterburg-nok-20260904</Id>
-    <AvitoId>8415338518</AvitoId>
+    <Id>mcm-sankt-peterburg-fsb-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -119,8 +117,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-novosibirsk-nok-20260904</Id>
-    <AvitoId>8375133286</AvitoId>
+    <Id>mcm-novosibirsk-sro_build-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -178,8 +175,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-ekaterinburg-nok-20260904</Id>
-    <AvitoId>8342025214</AvitoId>
+    <Id>mcm-kostroma-sro_build-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -237,8 +233,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-kazan-nok-20260904</Id>
-    <AvitoId>8357647674</AvitoId>
+    <Id>mcm-kazan-fsb-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -296,8 +291,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-krasnoyarsk-nok-20260904</Id>
-    <AvitoId>8317158035</AvitoId>
+    <Id>mcm-podolsk-sro_build-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -355,8 +349,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-nizhniy_novgorod-nok-20260904</Id>
-    <AvitoId>8363125479</AvitoId>
+    <Id>mcm-rostov-na-donu-fsb-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -414,8 +407,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-chelyabinsk-nok-20260904</Id>
-    <AvitoId>8417103668</AvitoId>
+    <Id>mcm-rostov-na-donu-mchs-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -473,8 +465,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-ufa-nok-20260904</Id>
-    <AvitoId>8312381231</AvitoId>
+    <Id>mcm-ufa-sro_project-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -532,8 +523,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-samara-nok-20260904</Id>
-    <AvitoId>8273305354</AvitoId>
+    <Id>mcm-samara-mchs-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -591,8 +581,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-rostov-na-donu-nok-20260904</Id>
-    <AvitoId>8354964217</AvitoId>
+    <Id>mcm-rostov-na-donu-nok-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -650,8 +639,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-krasnodar-nok-20260904</Id>
-    <AvitoId>8219978868</AvitoId>
+    <Id>mcm-sankt-peterburg-giop-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -709,8 +697,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-omsk-nok-20260904</Id>
-    <AvitoId>8254386431</AvitoId>
+    <Id>mcm-sankt-peterburg-nrs-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -768,8 +755,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-voronezh-nok-20260904</Id>
-    <AvitoId>8355044487</AvitoId>
+    <Id>mcm-sankt-peterburg-sro_build-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -827,8 +813,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-perm-nok-20260904</Id>
-    <AvitoId>8362299842</AvitoId>
+    <Id>mcm-perm-fsb-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -886,8 +871,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-volgograd-nok-20260904</Id>
-    <AvitoId>8357787554</AvitoId>
+    <Id>mcm-saratov-mchs-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -945,8 +929,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-saratov-nok-20260904</Id>
-    <AvitoId>8363277246</AvitoId>
+    <Id>mcm-saratov-sro_build-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1004,8 +987,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-tyumen-nok-20260904</Id>
-    <AvitoId>8417785327</AvitoId>
+    <Id>mcm-tyumen-sro_project-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1063,8 +1045,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-tolyatti-nok-20260904</Id>
-    <AvitoId>8309677541</AvitoId>
+    <Id>mcm-tolyatti-fsb-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1122,8 +1103,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-mahachkala-nok-20260904</Id>
-    <AvitoId>8294587683</AvitoId>
+    <Id>mcm-saratov-sro_project-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1181,8 +1161,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-barnaul-nok-20260904</Id>
-    <AvitoId>8273920101</AvitoId>
+    <Id>mcm-sevastopol-giop-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1240,8 +1219,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-izhevsk-nok-20260904</Id>
-    <AvitoId>8309731087</AvitoId>
+    <Id>mcm-sevastopol-nrs-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1299,8 +1277,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-ulyanovsk-nok-20260904</Id>
-    <AvitoId>8220767745</AvitoId>
+    <Id>mcm-ulyanovsk-nrs-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1358,8 +1335,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-irkutsk-nok-20260904</Id>
-    <AvitoId>8460943668</AvitoId>
+    <Id>mcm-sevastopol-sro_project-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1417,8 +1393,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-habarovsk-nok-20260904</Id>
-    <AvitoId>8461073843</AvitoId>
+    <Id>mcm-sochi-sro_build-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1476,8 +1451,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-yaroslavl-nok-20260904</Id>
-    <AvitoId>8357603820</AvitoId>
+    <Id>mcm-staryy_oskol-sro_build-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1535,8 +1509,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-vladivostok-nok-20260904</Id>
-    <AvitoId>8415475030</AvitoId>
+    <Id>mcm-stavropol-nok-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1594,8 +1567,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-stavropol-nok-20260904</Id>
-    <AvitoId>8317237760</AvitoId>
+    <Id>mcm-stavropol-sro_project-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1653,8 +1625,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-sevastopol-nok-20260904</Id>
-    <AvitoId>8270812201</AvitoId>
+    <Id>mcm-sterlitamak-sro_build-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -1712,8 +1683,7 @@
     </PriceList>
   </Ad>
   <Ad>
-    <Id>mcm-tomsk-nok-20260904</Id>
-    <AvitoId>8254278466</AvitoId>
+    <Id>mcm-tomsk-mchs-20260903</Id>
     <AdStatus>Free</AdStatus>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
